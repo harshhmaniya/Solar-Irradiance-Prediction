@@ -1,5 +1,3 @@
-Here is a suggested README.md for your Solar Irradiance Prediction project on GitHub:
-
 ## Solar Irradiance Prediction
 
 This project aims to predict solar irradiance levels using machine learning techniques. By leveraging historical weather data, the goal is to develop an accurate forecasting model that can optimize solar energy generation.
@@ -51,7 +49,3 @@ This project aims to predict solar irradiance levels using machine learning tech
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
