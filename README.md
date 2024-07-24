@@ -43,11 +43,11 @@ This project aims to predict solar irradiance levels using machine learning tech
 ### Usage
 
 1. **Clone the repository**:
-2. `git clone https://github.com/harshhmaniya/Solar-Irradiance-Prediction.git`
-3. **Install the required libraries**:
-4. `pip install -r requirements.txt`
-5. **Run the Jupyter Notebook**:
-6. `jupyter notebook Solar Irradiance Prediction.ipynb`
+  `git clone https://github.com/harshhmaniya/Solar-Irradiance-Prediction.git`
+2. **Install the required libraries**:
+  `pip install -r requirements.txt`
+3. **Run the Jupyter Notebook**:
+  `jupyter notebook Solar Irradiance Prediction.ipynb`
 
 ### Contributing
 
